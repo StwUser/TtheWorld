@@ -1,0 +1,14 @@
+﻿@model IEnumerable<AspNetCoreWorld.Models.Trip>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row" >
+   
+    <div class="col-md-12">
+        <h1>Welcome to the World.</h1>
+        <p>This application will allow you to plan world trips</p>
+        <a asp-controller="App" asp-action="trips" class="btn btn-lg btn-success">View my trips</a>
+    </div>
+
+</div>

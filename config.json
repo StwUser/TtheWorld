@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "Mickn7.1@mail.ru"
+  },
+  "ConnectionsStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=AspNetCoreWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
